@@ -38,7 +38,6 @@ A decentralized email security system that analyzes emails for phishing, spam, a
 ZK Email Guardian is a privacy-preserving email security platform that combines:
 
 - **📧 Mailchain Integration**: Decentralized email infrastructure
-- **🔍 AI-Powered Threat Detection**: Real-time analysis of email content
 - **🔐 Zero-Knowledge Proofs**: Privacy-preserving verification without revealing email content
 - **⛓️ Blockchain Verification**: Immutable proof storage on Solana
 - **📊 Sender Reputation System**: Trust scores based on historical behavior
